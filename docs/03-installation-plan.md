@@ -4,8 +4,15 @@
 Install VMware ESXi bare-metal on Dell OptiPlex 7060 and access the ESXi Host Client from a browser.
 
 ## Install Target
+
+### Original planned target
 - Internal NVMe SSD: SK hynix BC511 512 GB
-- Warning: Existing Windows 11 installation will be erased.
+
+### Final install target
+- Samsung SSD 870 1 TB SATA SSD
+
+## Note
+The original NVMe SSD was detected by BIOS but was not detected by the ESXi installer. A Samsung SATA SSD was installed and used as the final ESXi installation target.
 
 ## Installation Media
 - ESXi installer USB
