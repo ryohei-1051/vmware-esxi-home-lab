@@ -1,5 +1,6 @@
-# Stage 1 Network Plan — Initial ESXi Setup
+# Network and Storage Plan
 
+## Stage 1 — Initial ESXi Network Setup
 ## Current Temporary Setup
 
 - ESXi Management IP: 192.168.1.1
@@ -16,10 +17,8 @@
 - DNS: home router IP or lab DNS server
 - VLAN: none initially; VLAN segmentation planned in Stage 2/3
 
-# Stage 2 Network and Shared Storage Plan
-
+## Stage 2 — Managed Switch and Shared Storage Plan
 ## Goal
-
 Expand the current single-host ESXi lab by adding a managed switch and shared storage device. This stage will introduce physical network switching, VLAN planning, NFS/iSCSI datastore testing, and shared storage concepts.
 
 ## Planned Equipment
