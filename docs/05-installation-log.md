@@ -39,3 +39,4 @@
 - Workaround: Installed Samsung SATA SSD and selected it as ESXi install target
 - Management IP: 192.168.1.1
 - ESXi Host Client Access: Successful
+- Windows Server 2022 VM deployed successfully after attaching the datastore ISO file to the virtual CD/DVD drive and enabling Connect at power on.
