@@ -8,6 +8,7 @@ This repository documents my bare-metal VMware ESXi home lab built on a Dell Opt
 - Configured local datastore using Samsung SSD 870 1TB SATA SSD
 - Deployed first Windows Server 2022 VM
 - Confirmed ESXi Host Client access from browser
+- Troubleshot an ESXi storage detection issue and completed installation using a dedicated SATA SSD
 
 ## Roadmap
 
