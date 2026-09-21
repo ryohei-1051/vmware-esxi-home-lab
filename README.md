@@ -18,7 +18,7 @@ The lab roadmap is tracked using GitHub Projects.
 - Stage 3: Additional ESXi host and vCenter
 - Final Stage: Optional third ESXi host
 
-Project board: [<your GitHub Project URL>](https://github.com/users/ryohei-1051/projects/2)
+Project board: https://github.com/users/ryohei-1051/projects/2/views/1
 
 ## Lab Goals
 
