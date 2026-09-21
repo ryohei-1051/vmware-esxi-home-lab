@@ -15,7 +15,7 @@ The lab roadmap is tracked using GitHub Projects.
 
 - Stage 1: Single bare-metal ESXi host
 - Stage 2: Managed switch and shared storage
-- Stage 3: Additional ESXi host and vCenter
+- Stage 3: Additional ESXi host and vCenter deployment
 - Final Stage: Optional third ESXi host
 
 Project board: https://github.com/users/ryohei-1051/projects/2/views/1
