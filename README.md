@@ -9,6 +9,17 @@ This repository documents my bare-metal VMware ESXi home lab built on a Dell Opt
 - Deployed first Windows Server 2022 VM
 - Confirmed ESXi Host Client access from browser
 
+## Roadmap
+
+The lab roadmap is tracked using GitHub Projects.
+
+- Stage 1: Single bare-metal ESXi host
+- Stage 2: Managed switch and shared storage
+- Stage 3: Additional ESXi host and vCenter
+- Final Stage: Optional third ESXi host
+
+Project board: [<your GitHub Project URL>](https://github.com/users/ryohei-1051/projects/2)
+
 ## Lab Goals
 
 - Build a reusable infrastructure platform for Windows, Linux, networking, PowerShell, Azure hybrid, and security labs
