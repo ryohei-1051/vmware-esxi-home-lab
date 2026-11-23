@@ -8,7 +8,20 @@
 - BIOS Version: Dell 1.28.0, 2023-12-13
 
 ## Storage
-- Disk: SK hynix BC511 NVMe 512 GB
+
+### Original Storage
+- Model: SK hynix BC511 NVMe
+- Capacity: 512 GB
+- BIOS detection: Successful
+- ESXi installer detection: Unsuccessful
+- Root cause: Not definitively established
+
+### Current ESXi Storage
+- Model: Samsung SSD 870
+- Capacity: 1 TB
+- Interface: SATA
+- ESXi installation: Successful
+- Local datastore: Created successfully
 
 ## Network
 - Wired NIC: Intel Ethernet Connection (7) I219-LM
