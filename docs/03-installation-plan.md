@@ -22,4 +22,4 @@ The original NVMe SSD was detected by BIOS but was not detected by the ESXi inst
 - Hostname: esxi01.lab.local
 - Management network: wired Ethernet only
 - Wi-Fi: not used
-- Initial storage: local NVMe datastore
+- Initial storage: Samsung SSD 870 1 TB SATA SSD
