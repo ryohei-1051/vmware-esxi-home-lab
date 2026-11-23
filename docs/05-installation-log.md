@@ -16,11 +16,24 @@
 - [x] Configured management IP
 - [x] Accessed ESXi Host Client from browser
 
+
 ## Issues Encountered
-- Issue:
-- Cause:
-- Fix:
-- Verification:
+
+### NVMe SSD Not Detected
+
+- Issue: ESXi installer did not detect the SK hynix BC511 NVMe SSD.
+- Investigation: Confirmed BIOS detection and checked storage settings.
+- Root cause: Not definitively established.
+- Workaround: Installed Samsung SSD 870 1 TB SATA SSD.
+- Verification: ESXi installation and local datastore creation succeeded.
+
+See [Storage Troubleshooting](06-storage-troubleshooting.md).
+
+## Management IP History
+
+- Initial direct Ethernet: 192.168.1.1
+- Temporary laptop ICS network: 192.168.137.2
+- Stage 2 permanent network: Pending deployment
 
 ## Final Result
 - ESXi Host Client accessible: Yes
