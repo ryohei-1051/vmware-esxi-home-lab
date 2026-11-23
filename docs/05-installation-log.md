@@ -11,7 +11,7 @@
 - [x] Disabled Secure Boot
 - [x] Confirmed virtualization settings
 - [x] Booted from USB installer
-- [x] Selected internal NVMe SSD as install target
+- [x] Selected Samsung SSD 870 1 TB SATA SSD as install target
 - [x] Installed ESXi
 - [x] Configured management IP
 - [x] Accessed ESXi Host Client from browser
